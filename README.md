@@ -2,6 +2,8 @@
 
 This repository contains the outcomes and insights presented in the paper: **"Latency-Aware Scheduling for Real-Time Application Support in Edge Computing"**. We publish the data as a valuable reference for researchers, practitioners, and system designers for developing more authentic simulations that accurately replicate the performance of edge offloading in real-world situations.
 
+Paper: https://dl.acm.org/doi/abs/10.1145/3578354.3592866
+
 ## Structure
 
 There is a folder for each [scheduling strategy (s1 - s5)](#scheduling-strategies). 
